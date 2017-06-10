@@ -38,7 +38,7 @@
         <!--WELCOME DIV-->
         <div id="dvWelcome" class="textpad text-center">
             <a name="dvWelcome"></a>
-            <asp:Label ID="lblWelcome" CssClass="spaceyText" runat="server" Text="Hughes Auto Service" Font-Names="Times New Roman" Font-Size="50pt" ForeColor="White"></asp:Label>
+            <asp:Label ID="lblWelcome" CssClass="spaceyText" runat="server" Text="Hughes Auto Service" Font-Names="Times New Roman" Font-Size="50pt" ForeColor="Black"></asp:Label>
             <br />
             <br />
             <br />
