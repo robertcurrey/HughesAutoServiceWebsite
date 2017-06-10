@@ -127,7 +127,9 @@
         <br />
         <br />
         <br />
-        <br />
+        <div class="text-center">
+            <img src="Images/LogoArt.png" width="100" height="100"/>
+        </div>
         <br />
         <br />
         <br />
@@ -183,7 +185,9 @@
         <br />
         <br />
         <br />
-        <br />
+        <div class="text-center">
+            <img src="Images/LogoArt.png" width="100" height="100"/>
+        </div>
         <br />
         <br />
         <br />
