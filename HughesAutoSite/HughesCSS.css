@@ -1,0 +1,55 @@
+﻿body {
+    overflow: hidden;
+}
+
+.bobbytron {
+    position: center;
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 0px 10px 20px;
+    border-radius: 7px;
+    padding: 30px;
+}
+
+.backgroundImage {
+    background-image: url('Images/Hughes 2.jpg');
+    background-size: cover;
+    display: block;
+    left: -5px;
+    top: -5px;
+    bottom: -5px;
+    right: -5px;
+    position: fixed;
+    z-index: -1;
+    -webkit-filter: blur(8px);
+    -moz-filter: blur(8px);
+    -o-filter: blur(8px);
+    -ms-filter: blur(8px);
+    filter: blur(8px);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: -5px -10px -10px -5px;
+}
+
+.spaceyText {
+    letter-spacing: 10px;
+}
+
+.navpad {
+    padding: 20px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.textpad {
+    padding: 80px;
+}
+
+.smallerSpaceyText {
+    letter-spacing: 5px;
+}
