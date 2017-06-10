@@ -75,8 +75,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Home.aspx" />
+    <Content Include="Images\Hughes 3.jpg" />
     <Content Include="Images\Hughes 2.jpg" />
     <Content Include="HughesCSS.css" />
+    <Content Include="Images\LogoArt.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
